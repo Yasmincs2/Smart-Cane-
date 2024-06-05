@@ -7,6 +7,7 @@ The Project, multimodal that combines computer vision, language processing, and 
  
  • **Automatically start a program on Raspberry Pi**
 run the command in the terminal 
+
 ( _python3 <script file path>_)
 ( _sudo crontab -e_)
 Write down at the bottom of the file ( _@reboot <Your command> &_)
