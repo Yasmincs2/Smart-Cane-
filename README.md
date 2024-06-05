@@ -2,7 +2,8 @@
 The Project, multimodal that combines computer vision, language processing, and speech recognition to enable users to interact with an AI assistant. The assistant can answer questions, provide location-based information, and generate speech based on the user's input.
 **The smart cane project aims to help blind individuals navigate their surroundings independently using advanced technology. The cane integrates sensors, GPS, a camera, and AI to provide real-time obstacle detection and navigation assistance.**
 
-![Smart Cane]([https://github.com/Yasmincs2/Smart-Cane-/blob/main/path/to/your/image/IMG_4454.heic?raw=true](https://github.com/Yasmincs2/Smart-Cane-/blob/main/smartCane.png?raw=true))
+![Smart Cane](https://github.com/Yasmincs2/Smart-Cane-/blob/main/smartCane.png?raw=true)
+
 
 # -Gitting started- 
  •Library installation .
@@ -61,9 +62,7 @@ Then (Ctrl + S) —> save , (Ctrl + X)—> exit
 •We deployed the smart cane to a broader user base, monitored performance, and made necessary updates.
 
 # 5. Conclusion:
-The smart cane project represents a significant advancement in assistive technology for the visually impaired, combining computer vision, language processing, and speech recognition to enhance user independence. By integrating sensors, GPS, a camera, and AI, the smart cane offers real-time obstacle detection and navigation assistance, ensuring safe and efficient movement.
-Successful hardware and software integration, including the YOLO model for obstacle detection and Google Speech-to-Text for voice interaction, has resulted in a user-friendly system with an 80% accuracy rate in obstacle detection. Extensive field testing and user feedback have refined its functionality.
-As we deploy the smart cane to a broader user base, continuous monitoring and updates will further enhance the user experience. This project not only addresses the immediate needs of visually impaired users but also paves the way for future innovations in assistive technology, promoting greater inclusivity and accessibility.
+The smart cane project significantly advances assistive technology, providing visually impaired users with real-time obstacle detection and navigation support. Successful integration of sensors, GPS, a camera, and AI, alongside user-friendly voice interaction, ensures safe and efficient movement. Continuous feedback and updates will further enhance its functionality, promoting greater inclusivity and accessibility. This project not only meets current needs but also sets the stage for future innovations in assistive technology.
 
 
  
