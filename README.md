@@ -1,4 +1,4 @@
-# Smart-Cane-Project 
+# Smart-Cane-Project                            iGuide|أُرشد
 The Project, multimodal that combines computer vision, language processing, and speech recognition to enable users to interact with an AI assistant. The assistant can answer questions, provide location-based information, and generate speech based on the user's input.
 **The smart cane project aims to help blind individuals navigate their surroundings independently using advanced technology. The cane integrates sensors, GPS, a camera, and AI to provide real-time obstacle detection and navigation assistance.**
 
