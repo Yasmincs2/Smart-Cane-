@@ -1,8 +1,13 @@
-# Smart-Cane-Project                            iGuide|أُرشد
+# Smart-Cane-Project                        
+
+<h1 align="center">iGuide|أُرشد</h1>
+
 The Project, multimodal that combines computer vision, language processing, and speech recognition to enable users to interact with an AI assistant. The assistant can answer questions, provide location-based information, and generate speech based on the user's input.
 **The smart cane project aims to help blind individuals navigate their surroundings independently using advanced technology. The cane integrates sensors, GPS, a camera, and AI to provide real-time obstacle detection and navigation assistance.**
 
-![Smart Cane](https://github.com/Yasmincs2/Smart-Cane-/blob/main/smartCane.png?raw=true)
+<div align="center">
+  <img src="https://github.com/Yasmincs2/Smart-Cane-/blob/main/smartCane.png?raw=true" alt="Smart Cane" width="400">
+</div>
 
 
 # -Gitting started- 
