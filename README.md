@@ -66,7 +66,7 @@ Then (Ctrl + S) —> save , (Ctrl + X)—> exit
  
 •We deployed the smart cane to a broader user base, monitored performance, and made necessary updates.
 
-# 5. Conclusion:
+# Conclusion:
 The smart cane project significantly advances assistive technology, providing visually impaired users with real-time obstacle detection and navigation support. Successful integration of sensors, GPS, a camera, and AI, alongside user-friendly voice interaction, ensures safe and efficient movement. Continuous feedback and updates will further enhance its functionality, promoting greater inclusivity and accessibility. This project not only meets current needs but also sets the stage for future innovations in assistive technology.
 
 
